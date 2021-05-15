@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textview_sound_recorder_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Распознавание речи"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:layout_marginTop="32dp"/>
+
+    <TextView
+        android:id="@+id/textview_sound_recorder_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Тут будет результат"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:layout_marginTop="32dp"/>
+
+    <com.mai.lms.ui.views.ButtonWithProgress
+        android:id="@+id/stt_button_with_progress"
+        style="@style/ButtonWithProgress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"/>
+
+</LinearLayout>

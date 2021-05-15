@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MAI LMS APP</string>
+    <string name="title">Заголовок</string>
+    <string name="notification_title">Title</string>
+
+    <!-- errors -->
+    <string name="unknown_exception_title">Неизвестная ошибка</string>
+    <string name="internet_exception_title">Нет интернета</string>
+    <string name="internet_exception_description">Проверьте соединение и попробуйте ещё раз</string>
+    <string name="error_alert_default_title">Ошибка</string>
+    <string name="error_alert_default_description">Попробуйте ещё раз</string>
+
+
+</resources>

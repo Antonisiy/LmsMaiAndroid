@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_grid_size">8dp</dimen>
+    <dimen name="doub_grid_size">16dp</dimen>
+
+    <dimen name="action_button_height">80dp</dimen>
+    <dimen name="postpone_button_height">70dp</dimen>
+    <dimen name="edit_text_padding_top_large">48dp</dimen>
+    <dimen name="edit_text_padding_bottom_large">24dp</dimen>
+    <dimen name="edit_text_padding_top_normal">32dp</dimen>
+    <dimen name="edit_text_padding_bottom_normal">12dp</dimen>
+
+    <dimen name="wheels_count_popup_width">72dp</dimen>
+    <dimen name="wheels_count_popup_horizontal_offset">136dp</dimen>
+
+    <dimen name="cargo_data_owners_popup_height">200dp</dimen>
+    <dimen name="summary_divider_margin_vertical">12dp</dimen>
+    <dimen name="card_min_height">100dp</dimen>
+</resources>
